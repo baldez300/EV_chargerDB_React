@@ -1,0 +1,3 @@
+﻿Run the Node.js Express Server: cd Desktop, cd EV_charger_react, cd ev_charger: node index.js
+To run ev_charger: npm run (Back-End repo)
+To run react-postgres: npm start (Front-End repo)
